@@ -7,7 +7,7 @@
 *regulating the relationship between the point of sale, the online buyer, and the parking attendant (Valet) to         * 
 *deliver the product to the car once the customer arrived to the agreed location (Parking Code)                        *
 *The Core data set are: (OrderID, VehicleID, ParkingCode, ValetID)                                                     *
-*Copyright Reserved 2025 to Abdulmohsen Rajeh, Saudi Arabia                                                                          *  
+*Copyright Reserved 2025 to Abdulmohsen Rajeh, Saudi Arabia                                                            *  
 ************************************************************************************************************************/
 #include <iostream>
 #include <vector>
